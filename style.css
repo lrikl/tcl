@@ -625,6 +625,10 @@
 }
 
 @media (max-width: 767px) {
+    .rz-container-rich {
+        text-wrap: balance;
+    }
+ 
     .rz-block-red {
         margin-top: -320px;
     }
