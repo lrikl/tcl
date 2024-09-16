@@ -679,4 +679,8 @@
     .rz-show-btn {
         max-width: 240px;
     }
+    
+    #rz-bullets label::before {
+        height: 1.5px;
+    }
 }
